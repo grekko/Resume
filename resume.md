@@ -33,6 +33,8 @@ California Polytechnic State University, San Luis Obispo
 
 ## Experience
 
+Just another day in a programmers life
+
 ### iFixit.com, San Luis Obispo CA
 
 #### Software Developer

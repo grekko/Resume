@@ -6,7 +6,7 @@
 
 ## Zur Person 
 
-<img style="float: right; margin: 10px; box-shadow: 0 0 5px #888; " src="http://grekko.de/greg-cv.jpg" alt="Gregory Igelmund"
+<img style="float: right; margin: 10px; -moz-box-shadow: 0 0 5px 5px #888; -webkit-box-shadow: 0 0 5px 5px#888; box-shadow: 0 0 5px 5px #888;" src="http://grekko.de/greg-cv.jpg" alt="Gregory Igelmund"
 title="Das bin ich" />
 
 Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der

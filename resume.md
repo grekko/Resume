@@ -6,6 +6,9 @@
 
 ## Zur Person 
 
+<img src="http://grekko.de/greg-cv.jpg" alt="Gregory Igelmund"
+title="Das bin ich" />
+
 Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
 Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
 meine Master-Thesis zu schreiben. Neben dem Studium beteilige ich mich im

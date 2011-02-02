@@ -9,7 +9,8 @@
 Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
 Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
 meine Master-Thesis zu schreiben. Neben dem Studium beteilige ich mich im
-Forschungszentrum für Intelligente Medien http://im.dm.hs-furtwangen.de
+Forschungszentrum für Intelligente Medien
+<a href="http://im.dm.hs-furtwangen.de" alt="RCIM" title="RCIM">RCIM</a>
 an einem Forschungsprojekt mittels Java-Entwicklung. Weiterhin betreue
 ich die Weiterentwicklung der Facebook-App
 <a href="http://apps.facebook.com/smapp_de">SMAPP</a> (LAMP).
@@ -24,9 +25,9 @@ liebe es neue Technologien auszutesten.
 
 ## Studentische Laufbahn
 
-Computer Science in Media, M.Sc.
-WS 2010 - WS 2011
-Hochschule Furtwangen
+Computer Science in Media, M.Sc.  
+WS 2010 - WS 2011  
+Hochschule Furtwangen  
 
 Computer Science in Media, B.A.  
 WS 2007 - WS 2010  
@@ -62,7 +63,7 @@ ich als Junior-Berater tätig.
 
 Vor dem Studium absolvierte ich diverse Praktika, u.a. bei der
 Düsseldorfer Agentur <a href="http://www.kamedia.de/" alt="ka:media"
-title="ka:media">[ka:media]/</a> und bei dem damalig existenten
+title="ka:media">[ka:media]</a> und bei dem damalig existenten
 TV-Format »GIGA 2« der GIGA Television GMBH.
 
 Nebenher betreue ich, wenn es die Zeit zulässt, verschiedene Freelancer

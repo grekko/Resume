@@ -13,10 +13,11 @@ Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
 Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
 meine Master-Thesis zu schreiben. Neben dem Studium beteilige ich mich im
 Forschungszentrum für Intelligente Medien
-<a href="http://im.dm.hs-furtwangen.de" alt="RCIM" title="RCIM">RCIM</a>
+<a href="http://im.dm.hs-furtwangen.de" alt="RCIM" title="Research
+Center for Intelligent Media">RCIM</a>
 an einem Forschungsprojekt mittels Java-Entwicklung. Weiterhin betreue
 ich die Weiterentwicklung der Facebook-App
-<a href="http://apps.facebook.com/smapp_de">SMAPP</a> (LAMP).
+<a href="http://apps.facebook.com/smapp_de" alt="SMAPP" title="Social Music Application">SMAPP</a> (LAMP).
 
 Neben dem Studium beschäftige ich mich neben Java vor allem  mit verschiedenen
 Skripting-Sprachen, darunter sind AS2, JS, lange Zeit und immernoch PHP, Python,
@@ -59,8 +60,9 @@ Duale Hochschule Baden-Württemberg Mannheim
 ## Bisherige praktische Erfahrung &amp; sonstiges
 
 Während dem dualen Studium arbeitete ich drei Jahre lang in dem
-Softwarehaus <a href="http://www.wjp.de">WJ&amp;P</a> mit dem WfMS <a
-href="http://www.jobrouter.de">JobRouter</a> und entwickelte
+Softwarehaus <a href="http://www.wjp.de" title="Weber, Jäck &amp; Partner">
+WJ&amp;P</a> mit dem WfMS <a href="http://www.jobrouter.de"
+title="JobRouter">JobRouter</a> und entwickelte
 Funktionalitäten für Front- (JS) und Backend (PHP). Darüber hinaus war
 ich als Junior-Berater tätig.
 

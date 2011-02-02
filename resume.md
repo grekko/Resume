@@ -4,7 +4,7 @@
  * <gregory.igelmund@hs-furtwangen.de>
  * <http://www.grekko.de>
 
-## Background
+## Zur Person 
 
 Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
 Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
@@ -22,7 +22,7 @@ mich gerne mit neuen Technologien auseinander, mache meine Mitschriften
 an der HS mit LaTeX in Vim oder Textmate, nutze die Shell (Zsh), Git und
 liebe es neue Technologien auszutesten.
 
-## Education
+## Studentische Laufbahn
 
 Computer Science in Media, M.Sc.
 WS 2010 - WS 2011
@@ -33,7 +33,7 @@ WS 2007 - WS 2010
 Duale Hochschule Baden-Württemberg Mannheim  
 
 
-## Systems Proficiency
+## Technische Interessen und Fähigkeiten
 
 **Programming Languages**
 
@@ -51,3 +51,20 @@ Duale Hochschule Baden-Württemberg Mannheim
 
  > Seit 2009 mit meinem #1 MBP und endlich auf OS X nutze ich täglich Vim, Git, TextMate,…
 
+
+## Bisherige praktische Erfahrung &amp; sonstiges
+
+Während dem dualen Studium arbeitete ich drei Jahre lang in dem
+Softwarehaus <a href="http://www.wjp.de">WJ&amp;P</a> mit dem WfMS <a
+href="http://www.jobrouter.de">JobRouter</a> und entwickelte
+Funktionalitäten für Front- (JS) und Backend (PHP). Darüber hinaus war
+ich als Junior-Berater tätig.
+
+Vor dem Studium absolvierte ich diverse Praktika, u.a. bei der
+Düsseldorfer Agentur <a href="http://www.kamedia.de/" alt="ka:media"
+title="ka:media">[ka:media]/</a> und bei dem damalig existenten
+TV-Format »GIGA 2« der GIGA Television GMBH.
+
+Nebenher betreue ich, wenn es die Zeit zulässt, verschiedene Freelancer
+bei der Umsetzung von Mini-Websites aufbauend auf dem CMS Contao oder
+Drupal.

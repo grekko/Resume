@@ -1,93 +1,53 @@
 # Gregory Igelmund
 
- * <gi@grekko.de>
- * <http://grekko.de>
+ * <igelmund@grekko.de>
+ * <gregory.igelmund@hs-furtwangen.de>
+ * <http://www.grekko.de>
 
 ## Background
 
-I am a current student of Computer Science at Cal Poly with an interest in
-communication and design. I am a big believer in experimenting with new things
-to expand my knowledge both professionally and recreationally. I strive to be a
-quick learner and both a competent leader and capable worker. I am an Eagle
-Scout and was an active officer of the Cal Poly Linux Users Group for three
-years. I was awarded Cal Poly's Residence Hall Council member of the year for
-both 2006 and 2007.
+Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
+Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
+meine Master-Thesis zu schreiben. Neben dem Studium beteilige ich mich im
+Forschungszentrum für Intelligente Medien http://im.dm.hs-furtwangen.de
+an einem Forschungsprojekt mittels Java-Entwicklung. Weiterhin betreue
+ich die Weiterentwicklung der Facebook-App
+<a href="http://apps.facebook.com/smapp_de">SMAPP</a> (LAMP).
+
+Neben dem Studium beschäftige ich mich neben Java vor allem  mit verschiedenen
+Skripting-Sprachen, darunter sind AS2, JS, lange Zeit und immernoch PHP, Python,
+habe schon mal SML/PROLOG gesehen, aber beschäftige mich am liebsten mit
+Ruby+Rails. Ich bin zwar (noch) kein Code Ninja und oder UNIX-Guru, aber setze
+mich gerne mit neuen Technologien auseinander, mache meine Mitschriften
+an der HS mit LaTeX in Vim oder Textmate, nutze die Shell (Zsh), Git und
+liebe es neue Technologien auszutesten.
 
 ## Education
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+Computer Science in Media, M.Sc.
+WS 2010 - WS 2011
+Hochschule Furtwangen
+
+Computer Science in Media, B.A.  
+WS 2007 - WS 2010  
+Duale Hochschule Baden-Württemberg Mannheim  
+
 
 ## Systems Proficiency
 
 **Programming Languages**
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+ > Mehrjährige Beschäftigung mit:  Java, PHP, Ruby, HTML, CSS, JavaScript, SQL (MySQL, SQLite, PostgreSQL), Bash
 
- > Experience with: F#, Python, C++, MongoDB
+ > Schon mal mit auseinandergesetzt: ActionScript 2, Python, SML/NJ, Prolog
 
-**Software**
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+**Framworks**
 
-## Experience
+ > Rails (Ruby), Drupal (PHP), Contao (PHP)
 
-Just another day in a programmers life
 
-### iFixit.com, San Luis Obispo CA
+**Software Tools**
 
-#### Software Developer
-
-##### April 2009 - Present
-
-I wear a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I write code mainly in PHP and Bash, and almost all of our servers are on Amazon's EC2 Service. 
-
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
-
-### Adobe Systems Incorporated, San Francisco CA
-
-#### Dreamweaver QE Intern
-
-##### Summer 2007 and 2008
-
- * Tested both daily builds and released versions of Dreamweaver against various operating systems -- including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case Application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4.
-
-<!--
-### California Polytechnic State University, San Luis Obispo CA
-
-#### Computer Science Lab Monitor
-
-##### Sept. 2006 to June 2007
-
- * Maintained printers and computers for seven labs.
-
-### Sonoma County Information Systems Department, Santa Rosa CA
-
-#### Intern
-
-##### June 2005 to Sept. 2005
-  * Built and maintained three separate websites, one dealing with unions, one system uptime web application, and one error reporting web form.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director
-
-##### Summer 2006
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks.
- * Updated and revised the Forest Management Plan and organized conservation projects throughout camp.
-
-#### Camp Counselor
-
-##### Summer 2002, 2003 and 2004
-
- * Took care of children ages ten to eighteen and responsible for creating and planning daily schedules for my classes.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
- * Dealt with their scoutmasters, which were usually older adults around the age of 40 to 60
- * Dealt with medical emergencies ranging from altitude sickness and dehydration to broken ribs.
+ > Seit 2009 mit meinem #1 MBP und endlich auf OS X nutze ich täglich Vim, Git, TextMate,…
 

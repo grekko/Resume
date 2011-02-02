@@ -13,7 +13,7 @@ Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
 Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
 meine Master-Thesis zu schreiben. Neben dem Studium beteilige ich mich im
 Forschungszentrum für Intelligente Medien
-<a href="http://im.dm.hs-furtwangen.de" alt="RCIM" title="Research
+<a href="http://im.dm.hs-furtwangen.de" alt="RCIM" title="Research 
 Center for Intelligent Media">RCIM</a>
 an einem Forschungsprojekt mittels Java-Entwicklung. Weiterhin betreue
 ich die Weiterentwicklung der Facebook-App

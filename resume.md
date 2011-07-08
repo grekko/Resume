@@ -10,14 +10,18 @@
 title="Das bin ich" />
 
 Hi, mein Name ist Gregory. Ich studiere Digitale Medien an der
-Hochschule Furtwangen und beginne voraussichtlich im Sommer 2011 damit
-meine Master-Thesis zu schreiben. Neben dem Studium beteilige ich mich im
+Hochschule Furtwangen und schreibe ab September 2011 bis März 2012 bei
+der CAS Software AG meine Master-Thesis über das Management von
+Produktvarianten. Nebenbei bin Hilfswissenschaftlicher Mitarbeiter am
 Forschungszentrum für Intelligente Medien
 <a href="http://im.dm.hs-furtwangen.de" alt="RCIM" title="Research 
 Center for Intelligent Media">RCIM</a>
 an einem Forschungsprojekt mittels Java-Entwicklung. Weiterhin betreue
 ich die Weiterentwicklung der Facebook-App
 <a href="http://apps.facebook.com/smapp_de" alt="SMAPP" title="Social Music Application">SMAPP</a> (LAMP).
+
+Darüber hinaus betreute ich als Lehrbeauftrager an der Hochschule Furtwangen
+das Praktikum Verteilte Anwendungen, sowie die Veranstaltung Java-Programmierung.
 
 Neben dem Studium beschäftige ich mich neben Java vor allem  mit verschiedenen
 Skripting-Sprachen, darunter sind AS2, JS, lange Zeit und immernoch PHP, Python,

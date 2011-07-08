@@ -21,7 +21,7 @@ ich die Weiterentwicklung der Facebook-App
 <a href="http://apps.facebook.com/smapp_de" alt="SMAPP" title="Social Music Application">SMAPP</a> (LAMP).
 
 Darüber hinaus betreute ich als Lehrbeauftrager an der Hochschule Furtwangen
-das Praktikum Verteilte Anwendungen, sowie die Veranstaltung Java-Programmierung.
+das Praktikum Verteilte Anwendungen und die Veranstaltung Java-Programmierung.
 
 Neben dem Studium beschäftige ich mich neben Java vor allem  mit verschiedenen
 Skripting-Sprachen, darunter sind AS2, JS, lange Zeit und immernoch PHP, Python,
